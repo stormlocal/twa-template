@@ -1,3 +1,5 @@
+лапапапа
+
 # twa-template
 
 > Starter template for a new TWA interacting with the TON blockchain
